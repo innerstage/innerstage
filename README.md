@@ -1,7 +1,12 @@
 ![Senior Data Engineer](github_banner.png)
 
 # Hey there :wave:
-Hi, I'm Mauricio! I'm a self-taught Python developer with over 6 years of experience and I'm very interested in the Rust programming language. I've worked as a Data Engineering Manager & Training Specialist for the past 4 years. I'm looking for new job opportunities and I'm constantly learning more about technology and computational social science in the meantime.
+
+I'm Mauricio! I hold a B.Sc. in Industrial Engineering and completed the MITx Micromasters program in Statistics and Data Science from EdX (2020). I'm a Python developer with 7 years of experience and worked as a Data Engineer for the past 4 years.
+
+On my last job I managed ETL repositories and activities across the company, using Python, *pandas* and Datawheel’s own library *bamboo-etl* for ETL automatization as technologies. These ETL pipelines created OLAP cubes and APIs to provide the front-end developers with the data necessary to design the visualizations for different public and private projects.
+
+Right now I'm looking for new job opportunities in the Data Engineering field, specially using Python.
 
 ### Tech Skills
 * **Programming Languages**: 🐍 *Python*: *pip*, *poetry*, *pandas*, *NumPy*, *flake8*, among others & 🦀 *Rust*.
@@ -14,6 +19,8 @@ Hi, I'm Mauricio! I'm a self-taught Python developer with over 6 years of experi
 * **Version Control**: 🟧 **Git**, 🐈‍⬛ **GitHub**.
 
 ### Academic Background
+
+*You can click on any of the following to know more about the respective program:*
 
 <details>
 <summary>B.Sc. in Civil Industrial Engineering, Universidad de Concepción (Concepción, Chile).</summary>
