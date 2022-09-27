@@ -9,13 +9,14 @@ On my last job I managed ETL repositories and activities across the company, usi
 Right now I'm looking for new job opportunities in the Data Engineering field, specially using Python.
 
 ### Tech Skills
-* **Programming Languages**: 🐍 *Python*: *pip*, *poetry*, *pandas*, *NumPy*, *flake8*, among others & 🦀 *Rust*.
+* **Programming Languages**: 🐍 *Python*: *pip*, *poetry*, *pandas*, *NumPy*, *flake8*, among others. Also 🦀 *Rust*, 💻 *Bash* and 👨🏻‍💻 *SQL*.
 * **Python Frameworks**: 🌶 *Flask*, 🤠 *Django*, ⚡️ *FastAPI*.
-* **SQL Databases**: 💿 *PostgreSQL*, 🟨 *ClickHouse*.
+* **ETL Tools**: 🪁 **Apache Airflow**, 🌟 **PySpark**.
+* **SQL Databases**: 💿 *PostgreSQL*, 🟨 *ClickHouse*, 🪶 *SQLite*.
 * **NoSQL Databases**: 🍃 *MongoDB*, ፨ *Neo4j*, 🟥 *Redis*.
 * **Documents**: 🌐 *HTML*, 🔽 *Markdown*, 📃 *LáTex*.
 * **Microservices**: 🐳 *Docker*.
-* **Cloud Storage**: 🔶 *AWS S3*, ☁️ *GCP Buckets*.
+* **Cloud Services**: 🔶 *AWS: S3*, ☁️ *GCP: Buckets, Compute Engine*.
 * **Version Control**: 🟧 **Git**, 🐈‍⬛ **GitHub**.
 
 ### Academic Background
@@ -37,16 +38,16 @@ I started working immediately after school, but I managed to complete an online 
 </details>
 
 <details>
-<summary>Professional Certificate in Web Programming, Harvard University (Cambridge, MA)</summary>
+<summary>Data Engineering Career Track, DataCamp (New York, NY)</summary>
 <br>
-I'm currently enrolled in Harvard's Professional Certificate in Web Programming, I'm still working on a project to finish the first course, "CS50's Introduction to Computer Science", and then I'll move to the specialization course "CS50's Web Programming with Python and JavaScript".
+This career track helped me discover how to build an effective data architecture, streamline data processing, and maintain large-scale data systems while getting hands-on experience with different technologies in order to create data engineering pipelines, automate common file system tasks, and build high-performance databases. The track covers Python, Bash, Apache Airflow, PySpark, AWS Boto, SQL, Scala and MongoDB.
 
 </details>
 
 <details>
-<summary>Computational Social Science Specialization, University of California (Davis, CA).</summary>
+<summary>Data Engineering using AWS Data Analytics, Udemy (San Francisco, CA).</summary>
 <br>
-I'm also enrolled in UC Davis' Computational Social Science Specialization, an exciting new field that I want to know more about. I already completed the first course "Computational Social Science Methods", and I have three more to go in addition to the Capstone Project: "Big Data, Artificial Intelligence and Ethics", "Social Network Analysis" and "Computer Simulations".
+This course helped me learn how to build Data Engineering Pipelines on AWS using Data Analytics Services such as Glue, EMR, Athena, Kinesis, Lambda and Redshift.
 
 </details>
 
